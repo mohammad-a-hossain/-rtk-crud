@@ -1,7 +1,7 @@
 ## project summery
-  ***crud project with rtk ***
+  ***crud project with redux toolkit ***
   - use react hooks 
-  - rtk query
+  - redux toolkit
   - create
   - read
   - update
